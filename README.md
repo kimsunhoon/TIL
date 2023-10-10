@@ -11,4 +11,4 @@
 
 ## 분류
 #### CS지식
-[운영체제](https://github.com/kimsunhoon/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+- [운영체제](https://github.com/kimsunhoon/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
