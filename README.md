@@ -12,3 +12,9 @@
 ## 분류
 #### CS지식
 - [운영체제](https://github.com/kimsunhoon/TIL/blob/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C)
+- [컴퓨터 구조]()
+- [컴퓨터 진수 표현](https://blog.naver.com/rlatjsgnsqmffhrm/223215774957)
+
+#### 알고리즘
+- [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
+- [소수찾기(에라토스테네스의 체)](https://blog.naver.com/rlatjsgnsqmffhrm/223217848629)
