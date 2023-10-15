@@ -18,7 +18,7 @@
 #### 알고리즘
 - [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
 - [소수찾기(에라토스테네스의 체)](https://blog.naver.com/rlatjsgnsqmffhrm/223217848629)
-- [완전탐색]
+- [완전탐색](https://blog.naver.com/rlatjsgnsqmffhrm/223237196629)
 - [그리디]
 - [BFS/DFS]
 - [다이나믹프로그래밍(DP)]
