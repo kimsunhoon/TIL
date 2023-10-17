@@ -14,6 +14,7 @@
 - [운영체제](https://github.com/kimsunhoon/TIL/edit/main/CS/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.md)
 - [컴퓨터 구조](https://github.com/kimsunhoon/TIL/blob/main/CS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C.md)
 - [컴퓨터 진수 표현](https://blog.naver.com/rlatjsgnsqmffhrm/223215774957)
+- [복잡도]()
 
 #### 알고리즘
 - [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
