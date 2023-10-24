@@ -15,7 +15,7 @@
 - [컴퓨터 구조](https://github.com/kimsunhoon/TIL/blob/main/CS/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C.md)
 - [컴퓨터 진수 표현](https://blog.naver.com/rlatjsgnsqmffhrm/223215774957)
 - [복잡도](https://github.com/kimsunhoon/TIL/blob/main/CS/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
-- [객체지향] ()
+- [객체지향](https://github.com/kimsunhoon/TIL/blob/main/CS/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 - [블록체인]()
 
 #### 알고리즘
