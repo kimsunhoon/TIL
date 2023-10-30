@@ -16,7 +16,7 @@
 - [컴퓨터 진수 표현](https://blog.naver.com/rlatjsgnsqmffhrm/223215774957)
 - [복잡도](https://github.com/kimsunhoon/TIL/blob/main/CS/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 - [객체지향](https://github.com/kimsunhoon/TIL/blob/main/CS/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
-- [블록체인]()
+- [블록체인](https://blog.naver.com/rlatjsgnsqmffhrm/223250574316)
 
 #### 알고리즘
 - [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
