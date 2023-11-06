@@ -31,3 +31,8 @@
 #### 언어
 - [JAVA]
 - [SPRING]
+
+#### 코딩테스트 준비
+- [백준]
+- [SWEA](https://github.com/kimsunhoon/TIL/tree/main/SWEA%20%ED%92%80%EC%9D%B4%20)
+- [프로그래머스]
