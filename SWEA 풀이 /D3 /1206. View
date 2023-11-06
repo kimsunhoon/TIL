@@ -1,0 +1,40 @@
+## 문제
+### 1206. [S/W 문제해결 기본] 1일차 - View
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=S%2FW+%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0&orderBy=RECOMMEND_COUNT&selectCodeLang=ALL&select-1=&pageSize=30&pageIndex=1
+<br>
+## 코드
+생각한 풀이
+- 좌우 2칸씩의 여유가 있어야 답을 구할 수 있기 때문에 5개 정도씩 끊어서 기준 변수 (가운데?) 를 기준으로 끊어서 비교하면 풀리지 않을까 생각함
+- 즉 하나의 인덱스 값 잡고 좌우 각각 2칸씩 비교하면서 반복문 돌리고 최댓값을 찾고 최댓값과 비교하면서 답을 찾는거임
+- 예를 들면 예시에서 00352 이런식으로 건물 높이가 주어져있었는데 가운데 3의 값은 양 옆 2칸으로 3보다 큰 수가 존재하기 때문에 이 건물에서는 조망권을 갖는 세대가 없는거임
+- 그런데 03524 이 건물들에서는 5층 이 건물은 양 옆으로 5보다 큰 수가 없기 때문에 5를 제외하고 가장 큰 층인 4의 값을 5에서 빼준 1 세대가 조망권을 갖는거임
+- 그래서 이 값을 답을 저장할 변수를 만들어서 거기다가 누적해서 더함
+
+ <br>
+```python
+for tc in range(1,11):
+    # 건물 개수 입력
+    n=int(input())
+    # 건물 높이 입력
+    h=list(map(int,input().split()))
+    # 정답 변수 초기화
+    ans=0
+    # 사이드 강물 제외하고 가운데 건물 층 수 끼리만 비교하면서 반복
+    for i in range(2,n-2):
+        # 5개씩 끊는다고 생각하고 가운데 건물 기준으로 좌우 2칸씩 비교해서 최댓값 찾기
+        if h[i]>h[i-2] and h[i]>h[i-1] and h[i]>h[i+1] and h[i]>h[i+2]:
+            # 건물 최댓값 찾기 위해 변수 초기화
+            max_h=h[i-2]
+            # 좌우 2칸씩 비교하기 위해서 다음과 같이 반복
+            for j in range(-2,3):
+                # j=0 은 자기 자신이 때문에 제외
+                if j==0:
+                    continue
+                if h[i-j]>max_h:
+                    max_h=h[i-j]
+            ans+=h[i]-max_h
+    print("#{}".format(tc),ans)
+```
+<br>
+새롭게 배운 점
+- 여러 경우로 나누어 반복문을 구현하는게 너무 어려웠음
