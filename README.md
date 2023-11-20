@@ -19,7 +19,7 @@
 - [블록체인](https://blog.naver.com/rlatjsgnsqmffhrm/223250574316)
 
 #### 자료구조
-- [자료구조 기초]
+- [자료구조 기초](https://github.com/kimsunhoon/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EA%B8%B0%EC%B4%88.md)
 - 
 
 #### 알고리즘
