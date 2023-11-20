@@ -17,7 +17,11 @@
 - [복잡도](https://github.com/kimsunhoon/TIL/blob/main/CS/%EB%B3%B5%EC%9E%A1%EB%8F%84.md)
 - [객체지향](https://github.com/kimsunhoon/TIL/blob/main/CS/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
 - [블록체인](https://blog.naver.com/rlatjsgnsqmffhrm/223250574316)
+
+#### 자료구조
+- [자료구조 기초]
 - 
+
 #### 알고리즘
 - [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
 - [소수찾기(에라토스테네스의 체)](https://blog.naver.com/rlatjsgnsqmffhrm/223217848629)
