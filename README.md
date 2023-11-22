@@ -20,7 +20,8 @@
 
 #### 자료구조
 - [자료구조 기초](https://github.com/kimsunhoon/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EA%B8%B0%EC%B4%88.md)
-- 
+- [선형자료구조](https://github.com/kimsunhoon/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EC%84%A0%ED%98%95%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+- [비선형자료구조](https://github.com/kimsunhoon/TIL/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%EB%B9%84%EC%84%A0%ED%98%95%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 
 #### 알고리즘
 - [최대공약수 최소공배수](https://blog.naver.com/rlatjsgnsqmffhrm/223216713634)
@@ -31,6 +32,7 @@
 - [다이나믹프로그래밍(DP)]()
 
 #### 데이터베이스
+- [데이터베이스 기초]
 
 #### 언어
 - [JAVA]
